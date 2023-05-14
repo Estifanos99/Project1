@@ -1,5 +1,5 @@
 print("Welcome to florida")
-num1=20
-num2=30
-num3=num1+num2
-print(num3)
+A=20
+B=30
+C=A*B
+print(C)
